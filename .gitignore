@@ -6,5 +6,8 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 # ignore .iml files
 *.iml
+=======
+>>>>>>> bc192104568f64c9057d8d8b782e9e85d95830aa
