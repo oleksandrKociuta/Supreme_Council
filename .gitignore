@@ -7,7 +7,12 @@
 *.war
 *.ear
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ignore .iml files
 *.iml
 =======
 >>>>>>> bc192104568f64c9057d8d8b782e9e85d95830aa
+=======
+# ignore .iml files
+*.iml
+>>>>>>> 2971d3308979d5f9e14f72d2548ca779eaf796a7
